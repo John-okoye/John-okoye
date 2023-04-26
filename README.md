@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **c.johnokoye@gmail.com**
 
-- Tools I use for Data Analysis:
+- 💡**Tools I use for Data Analysis:**
 - Microsoft Excel
 - R 
 - Python
