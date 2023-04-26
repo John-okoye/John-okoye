@@ -13,6 +13,14 @@
 
 - 📫 How to reach me: **c.johnokoye@gmail.com**
 
+- Tools I use for Data Analysis:
+- Microsoft Excel
+- R 
+- Python
+- SQL
+- Tableau
+- Power BI
+
 - ⚡ Fun fact: **I play the piano**
 
 <h3 align="left">Connect with me:</h3>
