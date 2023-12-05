@@ -1,27 +1,19 @@
 <h1 align="center">Hi 👋, I'm John Okoye</h1>
-<h3 align="center">I'm a Business and Data Analyst adept at analyzing and interpreting data to drive growth and solve problems.</h3>
+<h3 align="justify">I am a results-oriented Data Analyst with a keen eye for translating complex datasets into actionable insights. With a solid understanding of statistical analysis, data visualisation, and proficiency in tools such as SQL, Python, R, Excel, Power BI and Tableau, I have successfully contributed to data-driven decision-making in various industries. My expertise lies in uncovering meaningful trends and patterns, improving data quality, and optimizing reporting processes. I am passionate about leveraging data to drive business success and I'm committed to staying at the forefront of emerging analytics technologies. With a proven track record of delivering valuable insights, I'm dedicated to helping organizations harness the power of their data for strategic advantage.</h3>
 
-- 🔭 I’m currently working on **building my portfolio**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate with **other data professionals to work on real world and make data driven decisions.**
+- 👯 I’m open to job opportunities and also looking to collaborate with **other data professionals to work on real world problems and make data driven decisions.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/john_okoye](https://linktr.ee/john_okoye)
 
-- 🧑‍💼I am available for **Data Analyst and Business Intelligence roles. Kindly reach out**
-
 - 📫 How to reach me: **c.johnokoye@gmail.com**
 
-- 💡**Tools I use for Data Analysis:**
-- Microsoft Excel
-- R 
-- Python
-- SQL
-- Tableau
-- Power BI
-
-- ⚡ Fun fact: **I play the piano**
+- 💡**Tools I use for Data Analysis:**    
+  -> Microsoft Excel  
+  -> R   
+  -> Python  
+  -> SQL  
+  -> Tableau  
+  -> Power BI  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
